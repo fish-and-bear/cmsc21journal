@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/cmsc21journal/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>/cmsc21journal/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>/cmsc21journal/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
