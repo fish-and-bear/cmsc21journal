@@ -2,17 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
-    <lastmod>2021-04-01T21:29:33+08:00</lastmod>
+    <loc>https://fish-and-bear.github.io/cmsc21journal/</loc>
   </url><url>
-    <loc>/posts/firstpost/</loc>
-    <lastmod>2021-04-01T21:29:33+08:00</lastmod>
+    <loc>https://fish-and-bear.github.io/cmsc21journal/categories/</loc>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2021-04-01T21:29:33+08:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-  </url><url>
-    <loc>/tags/</loc>
+    <loc>https://fish-and-bear.github.io/cmsc21journal/tags/</loc>
   </url>
 </urlset>
